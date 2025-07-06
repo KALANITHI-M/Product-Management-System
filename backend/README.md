@@ -1,7 +1,7 @@
 
 # Production Manager Backend
 
-This is the backend for the Production Manager app, built with Python Flask and MySQL.
+This is the backend for the Production Manager app, built with Python Flask(venu scripts environment) and MySQL.
 
 ## Setup Instructions
 
